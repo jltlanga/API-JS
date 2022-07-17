@@ -9,10 +9,14 @@
 
 #Requirements
 * Consumir API.
+
 ** Obter dados de principais Krypton moedas disponíveis mundicalmente.
+
 *** Mostrar esses dados por ordem de valor agregado, por unidade no mercado no DOM
 
 # Detalhes do Projeto
  * API escolhida :<https://coinranking.com/pt>.
+
  ** Obter lista de principais Krypton Moedas do mundo.
+ 
  *** Campo de busca por símbulo da moeda na tabela.
