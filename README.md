@@ -5,7 +5,7 @@
 
 ### Projeto JS API
 
-## Desenolver interface (JS, HTML, Bootstrap, and CSS) para consumo de uma API
+## Desenvolver interface (JS, HTML, Bootstrap, and CSS) para consumo de uma API
 
 #Requirements
 * Consumir API.
